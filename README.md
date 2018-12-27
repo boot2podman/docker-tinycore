@@ -1,5 +1,5 @@
-Tiny Core Linux Docker Image
-============================
+Tiny Core Linux Container Image
+===============================
 
 This provides a very small CLI system image based on Tiny Core Linux developed
 at [The Core Project](http://tinycorelinux.net). It contains following Core
